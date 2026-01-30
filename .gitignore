@@ -11,7 +11,6 @@ env/
 # Environment / secrets
 # =========================
 .env
-.env.*
 
 # =========================
 # Node / React (plus tard)
